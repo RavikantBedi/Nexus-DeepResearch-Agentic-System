@@ -86,7 +86,7 @@ If you discover a bug or have an idea for improvement, please open an issue.
 For collaborations or project inquiries, feel free to connect:
 
 - GitHub: https://github.com/RavikantBedi
-- LinkedIn: https://www.linkedin.com/in/ravikant-bedi/
+- LinkedIn: https://www.linkedin.com/in/ravikant-bedi-72a362218?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
