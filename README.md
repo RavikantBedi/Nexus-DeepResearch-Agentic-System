@@ -63,5 +63,37 @@ This tool performs deep research requiring thousands of tokens. If you are using
 - The app uses `llama-3.1-8b-instant` to stay within the 6,000 Tokens Per Minute (TPM) limit.
 - If a daily or minute limit is hit, the application gracefully intercepts the error and attempts to deliver the partial PDF of whatever sections were completed.
 
-## 📄 License
-MIT License.
+## 🤝 Contributing
+
+Contributions, suggestions, and feature requests are welcome. Feel free to fork the repository, create a feature branch, and submit a pull request.
+
+If you discover a bug or have an idea for improvement, please open an issue.
+
+---
+
+## 👨‍💻 Author
+
+**Ravikant Bedi**
+
+- B.Tech Computer Science Engineering
+- Madan Mohan Malaviya University of Technology (MMMUT), Gorakhpur
+- Passionate about AI Agents, LLMs, Generative AI, Cybersecurity, and Full-Stack Development.
+
+---
+
+## 📬 Contact
+
+For collaborations or project inquiries, feel free to connect:
+
+- GitHub: https://github.com/RavikantBedi
+- LinkedIn: https://www.linkedin.com/in/ravikant-bedi/
+
+---
+
+## © Copyright
+
+Copyright © 2026 Ravikant Bedi.
+
+All Rights Reserved.
+
+This project and its source code are the intellectual property of the author. No part of this repository may be copied, reproduced, modified, redistributed, or used for commercial purposes without prior written permission.
